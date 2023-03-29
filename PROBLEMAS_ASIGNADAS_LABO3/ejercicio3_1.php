@@ -1,0 +1,6 @@
+<?php 
+//ESCRIBA UN PROGRAMA QUE MUESTRE TU NOMBRE POR PANTALLA.
+echo "LUZ :)";
+echo "MARTIN";
+?>
+
